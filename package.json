@@ -2,7 +2,7 @@
 	
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mauricio Bautista",
-	"description": "A project that does something awesome",
+	"description": "The best project on the world",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
