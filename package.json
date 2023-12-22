@@ -1,6 +1,7 @@
 {
-	"author": "Mauricio Bautista",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mauricio Bautista",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
